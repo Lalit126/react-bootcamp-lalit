@@ -8,6 +8,7 @@ import Home from "./Home";
 import Exercise1 from "./exercise1.js";
 import Exercise2 from "./exercise2.js";
 import Exercise3 from "./exercise3.js";
+import Exercise4 from "./exercise4.js";
 
 // import Exercise4 from "./exercise4";
 
@@ -23,6 +24,7 @@ class Main extends Component {
             <li><NavLink to="/exercise1">Exercise 1</NavLink></li>
             <li><NavLink to="/exercise2">Exercise 2</NavLink></li>
             <li><NavLink to="/exercise3">Exercise 3</NavLink></li>
+            <li><NavLink to="/exercise4">Exercise 4</NavLink></li>
             
 
           </ul>
@@ -31,6 +33,7 @@ class Main extends Component {
             <Route path="/exercise1" component={Exercise1}/>
             <Route path="/exercise2" component={Exercise2}/>
             <Route path="/exercise3" component={Exercise3}/>
+            <Route path="/exercise4" component={Exercise4}/>
         
            
           </div>

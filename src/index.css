@@ -13,6 +13,10 @@ body{
     margin: 0;
     
     }
+
+    h2{
+      text-align: center;
+    }
   
   ul.header li {
     display: inline;
