@@ -8,8 +8,9 @@ class Home extends Component {
         <h3> Github Link : <a href="https://github.com/Lalit126?tab=repositories" target ="_blank"> My Github Repo</a></h3>
         <p> I will updating some external links related to my work here!</p>
 
-        
- 
+               <br> </br>
+          <p> Student Records App :  <a href="https://reaction-lalit-chelani.herokuapp.com" target ="_blank"> Back-end Heroku </a></p>
+          <p> Student Records App :  <a href= "https://github.com/Lalit126/StudentBE" target ="_blank"> Back-end Github </a></p>
 
       </div>
     );
